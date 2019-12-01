@@ -11,7 +11,7 @@ new_hash = {}
 binding.pry
 end
 ```
-return new_hash
+{}
 
 ### `#actor`
 
