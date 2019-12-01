@@ -10,7 +10,7 @@ def new_hash
 {}
 end
 ```
-return 
+return
 
 ### `#actor`
 
