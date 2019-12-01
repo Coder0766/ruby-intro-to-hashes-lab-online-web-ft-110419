@@ -7,10 +7,10 @@ In the instructions it tells us that this method should return an empty hash. We
 
 ```ruby
 def new_hash
-new.hash
+hash = []
 end
 ```
-new_hash
+return hash
 
 ### `#actor`
 
