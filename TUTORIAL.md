@@ -11,8 +11,7 @@ new_hash = {}
 binding.pry
 end
 ```
-{}
-
+new_hash
 ### `#actor`
 
 In this method we need to create a hash named `actor` with a `name` key and a `value` of `"Dwayne The Rock Johnson"`.
