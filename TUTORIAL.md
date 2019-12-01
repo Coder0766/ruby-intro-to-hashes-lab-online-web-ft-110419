@@ -7,11 +7,11 @@ In the instructions it tells us that this method should return an empty hash. We
 
 ```ruby
 def new_hash
-empty_hash = {}
+new_hash = {}
 binding.pry
 end
 ```
-return empty_hash
+return new_hash
 
 ### `#actor`
 
