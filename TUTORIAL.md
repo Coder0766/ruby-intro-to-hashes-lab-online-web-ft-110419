@@ -1,3 +1,4 @@
+require 'pry'
 # Guide to Solving and Reviewing Intro to hashes
 
 ### `#new_hash`
@@ -6,9 +7,10 @@ In the instructions it tells us that this method should return an empty hash. We
 
 ```ruby
 def new_hash
-  {}
+new.hash
 end
 ```
+new_hash
 
 ### `#actor`
 
